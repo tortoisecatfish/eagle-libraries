@@ -1,0 +1,3 @@
+[submodule "eagle-libs"]
+	path = eagle-libs
+	url = git@github.com:triffid/eagle-libs.git
